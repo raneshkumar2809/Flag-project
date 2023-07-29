@@ -1,0 +1,35 @@
+p{
+    margin: 0px;
+    text-align: center;
+    font-size: 80px;
+    color: white;
+  }
+
+  div.flag{
+    background-color: red;
+    width: 900px;
+    height: 600px;
+    position: relative;
+  }
+
+  .flag>div{
+    background-color: navy;
+    width: 900px;
+    height: 300px;
+    position: absolute;
+    top: 150px;
+  }
+
+  .flag>div>div{
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    left: 350px;
+  }
+
+  .Laos{
+    color: black;
+  }
